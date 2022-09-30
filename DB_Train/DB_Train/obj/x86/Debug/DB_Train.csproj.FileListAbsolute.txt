@@ -1,0 +1,17 @@
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\Database.mdf
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\Database_log.ldf
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\DB_Train.exe.config
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\DB_Train.exe
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\DB_Train.pdb
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.Form1.resources
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.Properties.Resources.resources
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.csproj.GenerateResource.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.csproj.CoreCompileInputs.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.exe
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.pdb
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.csproj.AssemblyReference.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.Form2.resources
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\x86\Debug\DB_Train.Form3.resources
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\train.mdf
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\x86\Debug\train_log.ldf

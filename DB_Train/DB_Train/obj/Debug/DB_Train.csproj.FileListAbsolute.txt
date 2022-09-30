@@ -1,0 +1,12 @@
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\Debug\Database.mdf
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\Debug\Database_log.ldf
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\Debug\DB_Train.exe.config
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\Debug\DB_Train.exe
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\bin\Debug\DB_Train.pdb
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.csprojAssemblyReference.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.Form1.resources
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.Properties.Resources.resources
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.csproj.GenerateResource.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.csproj.CoreCompileInputs.cache
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.exe
+D:\Учеба\Курсач БСБД\DB_Train\DB_Train\obj\Debug\DB_Train.pdb
